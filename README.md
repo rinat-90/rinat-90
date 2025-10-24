@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rinat
 - 👀 I’m interested in modern web technologies
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 ribrofff@gmail.com
 
